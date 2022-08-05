@@ -1,0 +1,110 @@
+.bg-imag-header
+{
+    background-image: url(../image/events-heavenly-header.jpg);
+    background-position: center;
+    background-size: cover;
+    height:90vh !important;
+    box-sizing: inherit;
+}
+.bg-laier
+{
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 90vh;
+    background-color: rgba(214, 46, 51, 0.6);
+}
+h1
+{
+    font-size: 60px !important;
+    font-weight: 500 !important;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif !important;
+}
+.sidenav
+{
+    background-color: #414658 !important;
+    width: 0px;
+    padding-top: 15px;
+    overflow-x: hidden;
+}
+#opennav
+{
+    margin-left: 0px;
+}
+.closebtn
+{
+    position:absolute;
+    top: 15px;
+    right: 25px;
+    color: white;
+}
+.sidenav a
+{
+    transition-duration: 0.3s !important;
+}
+.sidenav a:hover
+{
+    color: rgba(214, 46, 51, 0.4) !important;
+    opacity: none;
+}
+#slidU
+{
+    display: none;
+}
+
+#slide h3
+{
+    cursor: pointer;
+}
+.bg-imagBady
+{
+    background-image: url(../image/invitation-2508607__340.jpg);
+    background-position: center center;
+    background-size:100% 100%;
+    width: 100%;
+}
+.bg-laiers
+{
+    height: 100%;
+    background-color: rgba(214, 46, 51, 0.6);
+}
+.col-lg-3 div
+{
+    width: 260px;
+    height: 200px;
+}
+.bg-slide
+{
+   background-color:  rgba(214, 46, 51, 0.6)
+}
+.bg-slid
+{
+    background-color: #ccc;
+}
+
+
+
+/*  */
+
+.form-icon-w
+{
+    width: 40px;
+    height: 40px;
+    border: solid 1px #999;
+    transition-duration: 0.7s;
+}
+.form-icon-w i
+{
+    color: #999;
+    transition-duration: 0.7s;
+}
+.form-icon-w:hover
+{
+    color: #fff;
+    background-color: #D62E33;
+    border:solid 1px #D62E33;
+}
+.form-icon-w:hover i
+{
+    color: #fff;
+}
